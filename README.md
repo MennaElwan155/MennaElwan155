@@ -4,7 +4,7 @@
 I'm a dedicated developer specializing in AI , Machine Learning and Flutter trainee
 
 ## Connect with me 🌐
-- [LinkedIn]:www.linkedin.com/in/menna-elwan-521bb331b
+- [LinkedIn](https:www.linkedin.com/in/menna-elwan-521bb331b)
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
