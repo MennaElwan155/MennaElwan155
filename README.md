@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**MennaElwan155/MennaElwan155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I'm Menna Elwan 👋
 
 ## About Me 👩‍💻
